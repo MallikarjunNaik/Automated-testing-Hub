@@ -15,18 +15,26 @@ Welcome to the Automated-testing-Hub! This repository houses a collection of aut
 
 ## 🛠️ Installation & Setup
 
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/Automated-testing-Hub.git
+    ```
 
-1. **Navigate to the project directory**:
+2. **Navigate to the project directory**:
     ```bash
     cd Automated-testing-Hub
     ```
 
-2. **Install dependencies** (ensure you have Python and pip installed):
+3. **Install dependencies** (ensure you have Python and pip installed):
     ```bash
     pip install selenium
     ```
 
-3. **Run the tests**:
+4. **Install the WebDriver Chrome extension**: 
+    - Download and install the [ChromeDriver](https://sites.google.com/chromium.org/driver/) that matches your Chrome version.
+    - Ensure the `chromedriver` executable is in your system's PATH or specify its location in your test scripts.
+
+5. **Run the tests**:
     ```bash
     python filename.py
     ```
@@ -38,4 +46,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 ---
 
 Happy testing! 🚀
-
