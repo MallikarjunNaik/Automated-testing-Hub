@@ -27,12 +27,12 @@ Welcome to the Automated-testing-Hub! This repository houses a collection of aut
 
 3. **Install dependencies** (ensure you have Python and pip installed):
     ```bash
-    pip install -r requirements.txt
+    pip install selenium
     ```
 
 4. **Run the tests**:
     ```bash
-    python -m unittest discover -s selenium-testing
+    python filename.py
     ```
 
 ## 🧑‍💻 Contributing
