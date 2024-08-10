@@ -15,22 +15,18 @@ Welcome to the Automated-testing-Hub! This repository houses a collection of aut
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/Automated-testing-Hub.git
-    ```
 
-2. **Navigate to the project directory**:
+1. **Navigate to the project directory**:
     ```bash
     cd Automated-testing-Hub
     ```
 
-3. **Install dependencies** (ensure you have Python and pip installed):
+2. **Install dependencies** (ensure you have Python and pip installed):
     ```bash
     pip install selenium
     ```
 
-4. **Run the tests**:
+3. **Run the tests**:
     ```bash
     python filename.py
     ```
